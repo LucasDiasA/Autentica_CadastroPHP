@@ -46,5 +46,5 @@ Pós consulta de pesquisa de uma categoria específica.
 
 
 
-Conclusão: projeto para aprendizagem das bases de PHP com criação de banco de dados MYSQL de administrador e sistema de cadastro de produtos.
+Conclusão: projeto para aprendizagem das bases de PHP com criação de banco de dados MYSQL de administrador e sistema de cadastro de produtos..
 
